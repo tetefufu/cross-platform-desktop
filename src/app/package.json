@@ -7,8 +7,8 @@
   "license": "MIT",
   "main": "main.js",
   "devDependencies": {
-    "electron": "^1.4.1",
-    "electron-builder": "^14.5.3"
+    "electron": "^4.0.7",
+    "electron-builder": "^20.38.5"
   },
   "dependencies": {
     "angular": "^1.6.1"
