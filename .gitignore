@@ -6,3 +6,4 @@ dist/win-unpacked
 dist/latest.yml
 .DS_Store
 dist/**
+.vs/
