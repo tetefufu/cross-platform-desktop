@@ -1,3 +1,5 @@
+Note: this works on MAC
+
 # cross-platform-desktop
 
 Simple cross-platform desktop to demonstrate how .Net Core can be used in an Electron application.
